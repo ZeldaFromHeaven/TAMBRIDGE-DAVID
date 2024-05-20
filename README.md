@@ -25,7 +25,7 @@
 
 <video src="/Users/jiangpeifeng/Downloads/fr1_pioneer_slam2.mov"></video>
 
-![fr2_pioneer_slam2](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520215634993.png)
+![fr2_pioneer_slam2](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/image-20240520215634993.png)
 
 ### On fr1_360 (5 FPS)
 
@@ -35,7 +35,7 @@
 
 ### On fr2_desk (5 FPS)
 
-![fr2_desk](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520215909232.png)
+![fr2_desk](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/image-20240520215909232.png)
 
 ### On fr2_large_with_loop (5 FPS)
 
