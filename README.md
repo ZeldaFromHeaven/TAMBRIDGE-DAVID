@@ -3,11 +3,11 @@
 
 ## TAMBRIDGE OVERVIEW
 
-![image-20240520233034834](../Documents/images/image-20240520233034834.png)
+![Overview](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520233034834.png)
 
 ## PLUG & PLAY FUSION BRIDGE
 
-![image-20240520233129600](../Documents/images/image-20240520233129600.png)
+![Bridge](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520233129600.png)
 
 ## OUR PERFORMANCE
 
