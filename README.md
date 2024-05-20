@@ -13,7 +13,7 @@
 
 ### On fr3_office (9 FPS)
 
-<video src="/Users/jiangpeifeng/Downloads/fr3_office.mov"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jB0x1xNloWM?mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![fr3_office](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520214958215.png)
 
