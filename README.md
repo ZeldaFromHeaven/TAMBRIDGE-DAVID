@@ -12,7 +12,8 @@
 ## OUR PERFORMANCE
 
 ### On fr3_office (9 FPS)
-[![Watch the video](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520215055566.png)](https://www.youtube.com/watch?v=jB0x1xNloWM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jB0x1xNloWM?mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![fr3_office](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520214958215.png)
 
