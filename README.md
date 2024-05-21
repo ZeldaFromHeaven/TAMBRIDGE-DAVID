@@ -15,7 +15,9 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jB0x1xNloWM?mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![fr3_office](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520214958215.png)
+main/images/example.png
+
+![fr3_office](https://raw.githubusercontent.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/main/images/image-20240520214958215.png)
 
 ### On fr2_xyz (30 FPS)
 
@@ -25,7 +27,7 @@
 
 <video src="/Users/jiangpeifeng/Downloads/fr1_desk.mov"></video>
 
-![fr1_desk](https://github.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/raw/main/images/image-20240520215032060.png)
+![fr1_desk](https://raw.githubusercontent.com/ZeldaFromHeaven/TAMBRIDGE-DAVID/main/images/image-20240520215032060.png)
 
 ### On fr2_pioneer_slam2 (9 FPS)
 
